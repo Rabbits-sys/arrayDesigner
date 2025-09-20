@@ -104,7 +104,7 @@ arrayDesigner/
 
 - 方向图模块可复位视角
 
-  ![界面展示](img/index.jpeg)
+  ![界面展示](https://github.com/Rabbits-sys/arrayDesigner/blob/main/img/index.jpeg)
 
 
 
